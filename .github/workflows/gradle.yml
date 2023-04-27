@@ -1,4 +1,4 @@
-name: Kotlin CI with Gradle
+meme: Kotlin CI with Gradle
 
 on:
   push:
