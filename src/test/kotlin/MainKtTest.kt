@@ -227,7 +227,7 @@ class MainKtTest {
         val transfer = 15_100
         val previos = 0
         val result = comission(typeCard = type, transfer = transfer, previos = previos)
-        assertEquals(-1, result)
+        assertEquals(20, result)
     }
 
     @Test
